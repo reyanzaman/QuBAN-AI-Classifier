@@ -1,12 +1,12 @@
 # QuBAN-AI-Classifier
 Multinomial naive bayes classifier for QuBAN dataset of questions to classify topics and courses for questions asked by students.
 
-Dataset is publicly available for use at:
+Dataset for Summer 2023 semester is publicly available for use at:
 ## https://doi.org/10.5281/zenodo.10051055
 
 The dataset contains scored questions on topics of CIS101 (Fundamentals of Computer & Research) and CSC203 (Data Structure). The questions are categorized by their topics and courses and also the irrelevant questions are seperated from the relevant ones.
 
-The dataset is a part of the QuBAN Research Paper which is included as a pdf file.
+The dataset is a part of the QuBAN Research Paper.
 
 Code is available to use on colab:
 
